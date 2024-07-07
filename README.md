@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (hubin|a coder)|http://hubin.pub)" title="👋 Hi there! I'm (Hubin|a coder)|http://hubin.pub)"/>](http://hubin.pub/)
+[<img src="" alt="👋 Hi there! I'm (hubin|a coder)|http://hubin.pub)" title="👋 Hi there! I'm (Hubin|a coder)|http://hubin.pub)"/>](http://hubin.pub/)
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
 <!--
